@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Marine-Freight-Route-Optimization-Engines/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Marine-Freight-Route-Optimization-Engines?style=flat-square" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Marine-Freight-Route-Optimization-Engines/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Marine-Freight-Route-Optimization-Engines?style=flat-square" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Marine-Freight-Route-Optimization-Engines/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Marine-Freight-Route-Optimization-Engines?style=flat-square" alt="GitHub Forks"/></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT"/></a>
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -65,7 +65,7 @@ The following table compares leading commercial SaaS platforms and maritime inte
 
 ## 💻 Open-Source Routing Solvers & Navigation Libraries
 
-The following open-source repositories provide self-hostable pathfinding algorithms, weather routing engines, nautical distance calculators, and benchmark datasets. The list is **sorted strictly in descending order by GitHub Star count**. Each star badge links directly to the repository's stargazers page.
+The following open-source repositories provide self-hostable pathfinding algorithms, weather routing engines, nautical distance calculators, and benchmark datasets. The list is **sorted strictly in descending order by GitHub Stars_Count**. Each Stars_Badge links directly to the repository's stargazers page.
 
 1. **[OpenCPN/OpenCPN](https://github.com/OpenCPN/OpenCPN)** [![OpenCPN Stars](https://img.shields.io/github/stars/OpenCPN/OpenCPN?style=social&color=white)](https://github.com/OpenCPN/OpenCPN/stargazers)  
    **The premier open-source ChartPlotter and Marine GPS navigation software.** A cross-platform ship-borne GUI application supporting BSB raster and S57/S63 vector nautical charts, NMEA 0183/2000 input, AIS tracking, and plugin extensibility for integrated weather routing, autopilot interfacing, and radar overlays.  
@@ -213,7 +213,7 @@ We welcome contributions from maritime professionals, naval architects, data sci
 2. 🌿 **Create a dedicated feature branch** (`git checkout -b feature/add-maritime-engine`).
 3. 📝 **Add or update the tool entry** in `README.md`:
    - Follow the established tabular format for commercial SaaS platforms.
-   - For open-source engines, include the social star badge linking to `/stargazers`.
+   - For open-source engines, include the social Stars_Badge linking to `/stargazers`.
    - Ensure specific pricing and exact free tier/trial limits are documented.
 4. 🚀 **Commit and push your changes** (`git commit -m "Add <Tool-Name> to marine route engines"`).
 5. 📬 **Submit a Pull Request (PR)** with a clear explanation of the contribution.
